@@ -9,7 +9,7 @@ The table below will display all the Muslim marriage websites ranked according t
 
 Site | Deceptive<sup>*</sup> | Spam/Fake Profiles<sup>**</sup> | Owned by(Muslim/Non-Muslim) && jurisdiction<sup>***</sup> | Clicks to Pricing<sup>****</sup>
 --- | --- | --- | --- | ---
-https://www.arabiandate.com/ | No<sup>1</sup> | likely | SOL Networks Limited(Unknown), Malta | 2 <sup>1</sup>
+https://www.arabiandate.com/ | No<sup>1</sup> | likely | SOL Networks Limited(Unknown), Malta | 2++ <sup>1</sup>
 https://www.singlemuslim.com/ | No | likely <sup>2.1</sup> |  Single Muslim Matrimonial services (Pvt Ltd)(Unknown), Pakistan/UK<sup>2.2</sup> | 4++ <sup>2.3</sup>
 
 #### Notes
@@ -20,7 +20,7 @@ https://www.singlemuslim.com/ | No | likely <sup>2.1</sup> |  Single Muslim Matr
 
 <sup>***</sup>Analyzing which company owns the website, are they visibly Muslim and what jurisdiction governs the entity. Jurisdiction is important for privacy-minded people
 
-<sup>****</sup>A simple analysis for how many times you need to click to find the pricing page. The higher the clicks, the worse you can consider the site to be, as they purposely bury this information and induce you to signup
+<sup>****</sup>A simple analysis for how many times you need to click to find the pricing page. The higher the clicks, the worse you can consider the site to be, as they purposely bury this information and induce you to signup. "++" indicates that an actual pricing page cannot be found and the company is very vague about how much their memberships cost
 
 <sup>1</sup>ArabianDate doesn't actually have a visible pricing page and you have to navigate to their "About" page to find out more concerning how the system works. The site doesn't say it is free, but the "About" page is mind-boggling and they even have an FAQ titled "4. Why might members on arabiandate.com look more attractive than members on some other sites?"
 
